@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\BankingSystem\BankingSystem\bin\Debug\BankingSystem.exe.config
+C:\Users\User\source\repos\BankingSystem\BankingSystem\bin\Debug\BankingSystem.exe
+C:\Users\User\source\repos\BankingSystem\BankingSystem\bin\Debug\BankingSystem.pdb
+C:\Users\User\source\repos\BankingSystem\BankingSystem\bin\Debug\BankingSystem.xml
+C:\Users\User\source\repos\BankingSystem\BankingSystem\obj\Debug\BankingSystem.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\BankingSystem\BankingSystem\obj\Debug\BankingSystem.Resources.resources
+C:\Users\User\source\repos\BankingSystem\BankingSystem\obj\Debug\BankingSystem.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\BankingSystem\BankingSystem\obj\Debug\BankingSystem.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BankingSystem\BankingSystem\obj\Debug\BankingSystem.exe
+C:\Users\User\source\repos\BankingSystem\BankingSystem\obj\Debug\BankingSystem.xml
+C:\Users\User\source\repos\BankingSystem\BankingSystem\obj\Debug\BankingSystem.pdb
